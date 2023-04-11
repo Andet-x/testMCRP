@@ -12,6 +12,8 @@
   "chat.tag.build.icon": "\uE00b",
   "chat.tag.designer.icon": "\uE00c",
   "chat.tag.vip.icon": "\uE00d",
-  "chat.tag.player.icon": "\uE00e"
+  "chat.tag.player.icon": "\uE00e",
+  "chat.tag.moder": "\uE00f",
+  "chat.tag.moder-icon": "\uE010"
 
 }

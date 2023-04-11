@@ -97,6 +97,20 @@
 			"ascent": 7,
 			"height": 7,
 			"chars": ["\uE00e"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-moder.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00f"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-moder-icon.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE010"]
 		}
 	]
 }
