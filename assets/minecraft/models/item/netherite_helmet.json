@@ -1,0 +1,13 @@
+{
+	"parent":"minecraft:item/generated",
+	"textures":
+	{
+		"layer0":"minecraft:item/netherite_helmet"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 0 }, "model": "item/netherite_helmet"},
+		{"predicate": { "custom_model_data": 1 }, "model": "custom/armor/warden_helmet"},
+		{"predicate": { "custom_model_data": 2 }, "model": "custom/armor/warden_helmet2"}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "statue/templates/statue-big",
+	"textures": {
+		"skin": "item/custom/models/skins/5"
+	}
+}

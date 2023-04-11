@@ -1,0 +1,22 @@
+{
+	"parent":"minecraft:item/handheld",
+	"textures":
+	{
+		"layer0":"minecraft:item/wooden_sword"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 0 }, "model": "item/wooden_sword"},
+		{"predicate": { "custom_model_data": 1 }, "model": "statue/statue_big/statue-1"},
+		{"predicate": { "custom_model_data": 2 }, "model": "statue/statue_big/statue-2"},
+		{"predicate": { "custom_model_data": 3 }, "model": "statue/statue_big/statue-3"},
+		{"predicate": { "custom_model_data": 4 }, "model": "statue/statue_big/statue-4"},
+		{"predicate": { "custom_model_data": 5 }, "model": "statue/statue_big/statue-5"},
+		{"predicate": { "custom_model_data": 6 }, "model": "statue/statue_big/statue-6"},
+		{"predicate": { "custom_model_data": 7 }, "model": "statue/statue_big/statue-7"},
+		{"predicate": { "custom_model_data": 8 }, "model": "statue/statue_big/statue-8"},
+		{"predicate": { "custom_model_data": 9 }, "model": "statue/statue_big/statue-9"},
+		{"predicate": { "custom_model_data": 10 }, "model": "statue/statue_big/statue-10"},
+		{"predicate": { "custom_model_data": 11 }, "model": "item/wooden_sword"}
+	]
+}

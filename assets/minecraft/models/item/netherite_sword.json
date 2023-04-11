@@ -1,0 +1,13 @@
+{
+	"parent":"minecraft:item/handheld",
+	"textures":
+	{
+		"layer0":"minecraft:item/netherite_sword"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 0 }, "model": "item/netherite_sword"},
+		{"predicate": {"custom_model_data":1}, "model": "item/holy_sword"},
+		{"predicate": { "custom_model_data": 2 }, "model": "custom/tools/warden_sword/warden_sword"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"parent":"minecraft:item/generated",
+	"textures":
+	{
+        "layer0": "item/firework_star",
+        "layer1": "item/firework_star_overlay"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 1 }, "model": "custom/decorations/book"},
+		{"predicate": { "custom_model_data": 2 }, "model": "custom/decorations/grave"},
+		{"predicate": { "custom_model_data": 3 }, "model": "item/sphere_1"},
+		{"predicate": { "custom_model_data": 4 }, "model": "item/sphere_2"},
+		{"predicate": { "custom_model_data": 5 }, "model": "item/sphere_3"},
+		{"predicate": { "custom_model_data": 6 }, "model": "item/legend_emblem"}
+	]
+}

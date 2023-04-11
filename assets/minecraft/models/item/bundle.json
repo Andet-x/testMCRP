@@ -1,0 +1,12 @@
+{
+	"parent":"minecraft:item/generated",
+	"textures":
+	{
+		"layer0":"minecraft:item/bundle"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 1 }, "model": "custom/items/new_years_sock"},
+		{"predicate": { "filled": 0.0000001, "custom_model_data": 1 }, "model": "custom/items/new_years_sock_filled"}
+	]
+}

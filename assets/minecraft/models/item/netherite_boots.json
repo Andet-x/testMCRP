@@ -1,0 +1,13 @@
+{
+	"parent":"minecraft:item/generated",
+	"textures":
+	{
+		"layer0":"minecraft:item/netherite_boots"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 0 }, "model": "item/netherite_boots"},
+		{"predicate": { "custom_model_data": 1 }, "model": "custom/armor/warden_boots"},
+		{"predicate": { "custom_model_data": 2 }, "model": "custom/armor/warden_boots2"}
+	]
+}

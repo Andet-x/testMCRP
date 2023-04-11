@@ -1,0 +1,13 @@
+{
+	"parent":"minecraft:item/generated",
+	"textures":
+	{
+		"layer0":"minecraft:item/milk_bucket"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 0 }, "model": "item/milk_bucket"},
+		{"predicate": { "custom_model_data": 1 }, "model": "custom/items/coca_cola"},
+		{"predicate": { "custom_model_data": 2 }, "model": "item/milk_bucket"}
+	]
+}

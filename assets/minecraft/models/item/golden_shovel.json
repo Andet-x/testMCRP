@@ -1,0 +1,13 @@
+{
+	"parent":"minecraft:item/handheld",
+	"textures":
+	{
+		"layer0":"minecraft:item/golden_shovel"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 0 }, "model": "item/golden_shovel"},
+		{"predicate": { "custom_model_data": 10 }, "model": "custom/tools/golden_drill"},
+		{"predicate": { "custom_model_data": 11 }, "model": "item/golden_shovel"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"parent":"minecraft:item/handheld",
+	"textures":
+	{
+		"layer0":"minecraft:item/diamond_pickaxe"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 0 }, "model": "item/diamond_pickaxe"},
+		{"predicate": { "custom_model_data": 10 }, "model": "custom/tools/diamond_drill"},
+		{"predicate": { "custom_model_data": 11 }, "model": "item/diamond_pickaxe"}
+	]
+}

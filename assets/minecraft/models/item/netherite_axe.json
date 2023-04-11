@@ -1,0 +1,13 @@
+{
+	"parent":"minecraft:item/handheld",
+	"textures":
+	{
+		"layer0":"minecraft:item/netherite_axe"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 0 }, "model": "item/netherite_axe"},
+		{"predicate": { "custom_model_data": 10 }, "model": "custom/tools/netherite_drill"},
+		{"predicate": { "custom_model_data": 11 }, "model": "item/netherite_axe"}
+	]
+}

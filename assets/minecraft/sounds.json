@@ -1,0 +1,19 @@
+{
+  "custom.money.interaction_with_coin": {
+    "sounds": [
+      "custom/money/interaction_with_coin_01",
+      "custom/money/interaction_with_coin_02",
+      "custom/money/interaction_with_coin_03",
+      "custom/money/interaction_with_coin_04",
+      "custom/money/interaction_with_coin_05",
+      "custom/money/interaction_with_coin_06"
+    ],
+    "replace": false, "subtitle": "subtitles.block.generic.break"
+  },
+  "custom.gui.ui_buy_button": {
+    "sounds": [
+      "custom/gui/ui_buy_button"
+    ],
+    "replace": false, "subtitle": "subtitles.block.generic.break"
+  }
+}

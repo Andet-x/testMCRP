@@ -1,0 +1,25 @@
+{
+	"parent":"minecraft:item/generated",
+	"textures":
+	{
+		"layer0":"minecraft:item/paper"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 1 }, "model": "custom/painting/dante"},
+		{"predicate": { "custom_model_data": 2 }, "model": "custom/painting/box"},
+		{"predicate": { "custom_model_data": 3 }, "model": "custom/painting/compass"},
+		{"predicate": { "custom_model_data": 4 }, "model": "custom/painting/dodo"},
+		{"predicate": { "custom_model_data": 5 }, "model": "custom/painting/dodo2"},
+		{"predicate": { "custom_model_data": 6 }, "model": "custom/painting/magnifier"},
+		{"predicate": { "custom_model_data": 7 }, "model": "custom/painting/moon"},
+		{"predicate": { "custom_model_data": 8 }, "model": "custom/painting/nailer"},
+		{"predicate": { "custom_model_data": 9 }, "model": "custom/painting/paddle"},
+		{"predicate": { "custom_model_data": 10 }, "model": "custom/painting/potato"},
+		{"predicate": { "custom_model_data": 11 }, "model": "custom/painting/red_justice"},
+		{"predicate": { "custom_model_data": 12 }, "model": "custom/painting/sugar_sunset"},
+		{"predicate": { "custom_model_data": 13 }, "model": "custom/painting/the_gun"},
+		{"predicate": { "custom_model_data": 14 }, "model": "custom/painting/tomate"},
+		{"predicate": { "custom_model_data": 15 }, "model": "custom/painting/sugar_sunset"}
+	]
+}

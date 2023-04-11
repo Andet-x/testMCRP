@@ -1,0 +1,13 @@
+{
+	"parent":"minecraft:item/generated",
+	"textures":
+	{
+		"layer0":"minecraft:item/apple"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 1 }, "model": "custom/decorations/standing_apple"},
+		{"predicate": { "custom_model_data": 2 }, "model": "custom/decorations/hanging_apple"},
+        {"predicate": { "custom_model_data": 3 }, "model": "item/custom/mr_apple"}
+	]
+}

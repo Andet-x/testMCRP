@@ -1,0 +1,14 @@
+{
+   "parent": "builtin/entity",
+   "textures": {
+      "layer1": "item/diamond_chestplate_custom_1",
+      "layer2": "item/diamond_leggings_custom_1",
+      "layer3": "item/diamond_boots_custom_1",
+      "layer0": "item/diamond_helmet_custom_1"
+   },
+   "overrides": [
+     {
+      "predicate": {"custom_model_data":1}
+     }
+   ]
+}

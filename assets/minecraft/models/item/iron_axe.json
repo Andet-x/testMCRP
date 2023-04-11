@@ -1,0 +1,14 @@
+{
+	"parent":"minecraft:item/handheld",
+	"textures":
+	{
+		"layer0":"minecraft:item/iron_axe"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 0 }, "model": "item/iron_axe"},
+		{"predicate": { "custom_model_data": 10 }, "model": "custom/tools/iron_drill"},
+		{"predicate": { "custom_model_data": 11 }, "model": "custom/tools/iron_two_handed_axe"},
+		{"predicate": { "custom_model_data": 12 }, "model": "item/iron_axe"}
+	]
+}
